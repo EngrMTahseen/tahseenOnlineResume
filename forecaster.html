@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="https://code.highcharts.com/highcharts.js"></script>
+    <link rel="stylesheet" href="style.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+    <script src="script.js"></script>
+    <title>Forecaster - Skill</title>
+  </head>
+  <body>
+    <!-- Header for Navigation -->
+    <header>
+      <img src="images/logo.png" alt="my Logo" class="logo" />
+      <h1>Muhammad Tahseen</h1>
+      <nav>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="academicHistory.html">Academic History</a></li>
+          <li><a href="professionalHistory.html">Professional History</a></li>
+          <li><a href="testimonials.html">Testimonials</a></li>
+          <li><a href="mySkills.html">Skills</a></li>
+          <li><a href="contactInfo.html">Contact Me</a></li>
+        </ul>
+      </nav>
+    </header>
+    <!-- Section for Forecaster -->
+    <div class="container">
+      <button><a href="mySkills.html">Back to My Skills</a></button>
+      <div class="forcaster"></div>
+      <figure class="figure">
+        <div id="chartContainer"></div>
+        <div class="prevNextBtnContainer">
+          <button
+            class="skillBtn"
+            id="prevBtn"
+            onclick="changeYear(-1)"
+            disabled
+          >
+            Previous Year
+          </button>
+          <button
+            class="skillBtn"
+            id="nextBtn"
+            onclick="changeYear(1)"
+            disabled
+          >
+            Next Year
+          </button>
+        </div>
+
+        <div id="forecasterbtn">
+          <button class="skillBtn" id="next12displayButton"></button>
+        </div>
+        <div id="next12MonthsContainer"></div>
+      </figure>
+    </div>
+  </body>
+</html>

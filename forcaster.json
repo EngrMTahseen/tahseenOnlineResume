@@ -1,0 +1,2562 @@
+[
+    {
+     "year": 1996,
+     "Month": "January",
+     "Solid fuels": 45.402951191827476,
+     "Gas ": 43.27176781002638,
+     "Electricity ": 62.483994878361074,
+     "Liquid fuels": 33.19705641864268
+    },
+    {
+     "year": 1996,
+     "Month": "February",
+     "Solid fuels": 45.402951191827476,
+     "Gas ": 43.27176781002638,
+     "Electricity ": 62.483994878361074,
+     "Liquid fuels": 32.86999182338512
+    },
+    {
+     "year": 1996,
+     "Month": "March",
+     "Solid fuels": 45.402951191827476,
+     "Gas ": 43.27176781002638,
+     "Electricity ": 62.483994878361074,
+     "Liquid fuels": 33.85118560915781
+    },
+    {
+     "year": 1996,
+     "Month": "April",
+     "Solid fuels": 45.402951191827476,
+     "Gas ": 43.27176781002638,
+     "Electricity ": 62.483994878361074,
+     "Liquid fuels": 34.91414554374489
+    },
+    {
+     "year": 1996,
+     "Month": "May",
+     "Solid fuels": 44.04086265607264,
+     "Gas ": 43.27176781002638,
+     "Electricity ": 62.61203585147247,
+     "Liquid fuels": 32.78822567457073
+    },
+    {
+     "year": 1996,
+     "Month": "June",
+     "Solid fuels": 43.813847900113515,
+     "Gas ": 43.27176781002638,
+     "Electricity ": 62.86811779769527,
+     "Liquid fuels": 32.134096484055604
+    },
+    {
+     "year": 1996,
+     "Month": "July",
+     "Solid fuels": 43.92735527809308,
+     "Gas ": 43.27176781002638,
+     "Electricity ": 62.996158770806666,
+     "Liquid fuels": 32.62469337694194
+    },
+    {
+     "year": 1996,
+     "Month": "August",
+     "Solid fuels": 43.92735527809308,
+     "Gas ": 43.27176781002638,
+     "Electricity ": 62.740076824583866,
+     "Liquid fuels": 32.86999182338512
+    },
+    {
+     "year": 1996,
+     "Month": "September",
+     "Solid fuels": 44.835414301929625,
+     "Gas ": 43.27176781002638,
+     "Electricity ": 62.355953905249685,
+     "Liquid fuels": 37.448896156991005
+    },
+    {
+     "year": 1996,
+     "Month": "October",
+     "Solid fuels": 45.743473325766175,
+     "Gas ": 43.27176781002638,
+     "Electricity ": 61.71574903969271,
+     "Liquid fuels": 40.71954210956664
+    },
+    {
+     "year": 1996,
+     "Month": "November",
+     "Solid fuels": 46.08399545970489,
+     "Gas ": 43.27176781002638,
+     "Electricity ": 61.33162612035852,
+     "Liquid fuels": 36.549468520032704
+    },
+    {
+     "year": 1996,
+     "Month": "December",
+     "Solid fuels": 46.08399545970489,
+     "Gas ": 43.27176781002638,
+     "Electricity ": 61.07554417413573,
+     "Liquid fuels": 38.348323793949305
+    },
+    {
+     "year": 1997,
+     "Month": "January",
+     "Solid fuels": 46.19750283768445,
+     "Gas ": 43.27176781002638,
+     "Electricity ": 60.43533930857875,
+     "Liquid fuels": 38.51185609157809
+    },
+    {
+     "year": 1997,
+     "Month": "February",
+     "Solid fuels": 46.19750283768445,
+     "Gas ": 43.27176781002638,
+     "Electricity ": 60.69142125480154,
+     "Liquid fuels": 36.05887162714637
+    },
+    {
+     "year": 1997,
+     "Month": "March",
+     "Solid fuels": 46.08399545970489,
+     "Gas ": 43.27176781002638,
+     "Electricity ": 60.94750320102433,
+     "Liquid fuels": 32.95175797219951
+    },
+    {
+     "year": 1997,
+     "Month": "April",
+     "Solid fuels": 45.970488081725314,
+     "Gas ": 43.13984168865436,
+     "Electricity ": 60.819462227912936,
+     "Liquid fuels": 31.316434995911692
+    },
+    {
+     "year": 1997,
+     "Month": "May",
+     "Solid fuels": 44.72190692395006,
+     "Gas ": 43.13984168865436,
+     "Electricity ": 60.43533930857875,
+     "Liquid fuels": 31.398201144726084
+    },
+    {
+     "year": 1997,
+     "Month": "June",
+     "Solid fuels": 44.494892167990926,
+     "Gas ": 43.13984168865436,
+     "Electricity ": 60.051216389244566,
+     "Liquid fuels": 30.58053965658217
+    },
+    {
+     "year": 1997,
+     "Month": "July",
+     "Solid fuels": 44.60839954597049,
+     "Gas ": 43.13984168865436,
+     "Electricity ": 59.667093469910384,
+     "Liquid fuels": 29.27228127555192
+    },
+    {
+     "year": 1997,
+     "Month": "August",
+     "Solid fuels": 44.38138479001136,
+     "Gas ": 43.13984168865436,
+     "Electricity ": 59.53905249679898,
+     "Liquid fuels": 30.498773507767783
+    },
+    {
+     "year": 1997,
+     "Month": "September",
+     "Solid fuels": 44.26787741203179,
+     "Gas ": 42.0844327176781,
+     "Electricity ": 57.74647887323944,
+     "Liquid fuels": 29.844644317252655
+    },
+    {
+     "year": 1997,
+     "Month": "October",
+     "Solid fuels": 45.85698070374574,
+     "Gas ": 42.0844327176781,
+     "Electricity ": 57.61843790012805,
+     "Liquid fuels": 31.316434995911692
+    },
+    {
+     "year": 1997,
+     "Month": "November",
+     "Solid fuels": 45.85698070374574,
+     "Gas ": 42.0844327176781,
+     "Electricity ": 57.106274007682465,
+     "Liquid fuels": 31.234668847097304
+    },
+    {
+     "year": 1997,
+     "Month": "December",
+     "Solid fuels": 45.85698070374574,
+     "Gas ": 42.0844327176781,
+     "Electricity ": 56.72215108834827,
+     "Liquid fuels": 30.253475061324615
+    },
+    {
+     "year": 1998,
+     "Month": "January",
+     "Solid fuels": 45.85698070374574,
+     "Gas ": 41.556728232189975,
+     "Electricity ": 56.59411011523689,
+     "Liquid fuels": 28.12755519215045
+    },
+    {
+     "year": 1998,
+     "Month": "February",
+     "Solid fuels": 45.85698070374574,
+     "Gas ": 41.556728232189975,
+     "Electricity ": 57.106274007682465,
+     "Liquid fuels": 26.573998364677028
+    },
+    {
+     "year": 1998,
+     "Month": "March",
+     "Solid fuels": 45.85698070374574,
+     "Gas ": 41.42480211081794,
+     "Electricity ": 57.61843790012805,
+     "Liquid fuels": 25.020441537203595
+    },
+    {
+     "year": 1998,
+     "Month": "April",
+     "Solid fuels": 45.85698070374574,
+     "Gas ": 41.42480211081794,
+     "Electricity ": 57.61843790012805,
+     "Liquid fuels": 25.18397383483238
+    },
+    {
+     "year": 1998,
+     "Month": "May",
+     "Solid fuels": 44.835414301929625,
+     "Gas ": 41.42480211081794,
+     "Electricity ": 56.97823303457107,
+     "Liquid fuels": 25.347506132461163
+    },
+    {
+     "year": 1998,
+     "Month": "June",
+     "Solid fuels": 44.9489216799092,
+     "Gas ": 41.29287598944592,
+     "Electricity ": 56.466069142125484,
+     "Liquid fuels": 24.529844644317254
+    },
+    {
+     "year": 1998,
+     "Month": "July",
+     "Solid fuels": 45.06242905788877,
+     "Gas ": 41.42480211081794,
+     "Electricity ": 56.08194622279129,
+     "Liquid fuels": 23.712183156173346
+    },
+    {
+     "year": 1998,
+     "Month": "August",
+     "Solid fuels": 45.06242905788877,
+     "Gas ": 41.42480211081794,
+     "Electricity ": 56.08194622279129,
+     "Liquid fuels": 23.221586263286998
+    },
+    {
+     "year": 1998,
+     "Month": "September",
+     "Solid fuels": 45.402951191827476,
+     "Gas ": 41.42480211081794,
+     "Electricity ": 56.08194622279129,
+     "Liquid fuels": 24.039247751430906
+    },
+    {
+     "year": 1998,
+     "Month": "October",
+     "Solid fuels": 46.878547105561864,
+     "Gas ": 41.42480211081794,
+     "Electricity ": 56.08194622279129,
+     "Liquid fuels": 24.856909239574815
+    },
+    {
+     "year": 1998,
+     "Month": "November",
+     "Solid fuels": 46.99205448354143,
+     "Gas ": 41.42480211081794,
+     "Electricity ": 56.08194622279129,
+     "Liquid fuels": 23.957481602616518
+    },
+    {
+     "year": 1998,
+     "Month": "December",
+     "Solid fuels": 46.99205448354143,
+     "Gas ": 41.42480211081794,
+     "Electricity ": 56.08194622279129,
+     "Liquid fuels": 22.3221586263287
+    },
+    {
+     "year": 1999,
+     "Month": "January",
+     "Solid fuels": 46.99205448354143,
+     "Gas ": 41.556728232189975,
+     "Electricity ": 56.08194622279129,
+     "Liquid fuels": 22.48569092395748
+    },
+    {
+     "year": 1999,
+     "Month": "February",
+     "Solid fuels": 46.99205448354143,
+     "Gas ": 41.556728232189975,
+     "Electricity ": 56.08194622279129,
+     "Liquid fuels": 22.24039247751431
+    },
+    {
+     "year": 1999,
+     "Month": "March",
+     "Solid fuels": 46.99205448354143,
+     "Gas ": 41.68865435356201,
+     "Electricity ": 56.08194622279129,
+     "Liquid fuels": 23.30335241210139
+    },
+    {
+     "year": 1999,
+     "Month": "April",
+     "Solid fuels": 47.105561861521004,
+     "Gas ": 41.29287598944592,
+     "Electricity ": 56.08194622279129,
+     "Liquid fuels": 25.756336876533116
+    },
+    {
+     "year": 1999,
+     "Month": "May",
+     "Solid fuels": 45.970488081725314,
+     "Gas ": 41.29287598944592,
+     "Electricity ": 55.953905249679906,
+     "Liquid fuels": 25.511038430089943
+    },
+    {
+     "year": 1999,
+     "Month": "June",
+     "Solid fuels": 45.85698070374574,
+     "Gas ": 41.29287598944592,
+     "Electricity ": 55.953905249679906,
+     "Liquid fuels": 25.511038430089943
+    },
+    {
+     "year": 1999,
+     "Month": "July",
+     "Solid fuels": 45.85698070374574,
+     "Gas ": 41.29287598944592,
+     "Electricity ": 55.8258642765685,
+     "Liquid fuels": 28.781684382665578
+    },
+    {
+     "year": 1999,
+     "Month": "August",
+     "Solid fuels": 45.85698070374574,
+     "Gas ": 41.29287598944592,
+     "Electricity ": 55.8258642765685,
+     "Liquid fuels": 29.354047424366314
+    },
+    {
+     "year": 1999,
+     "Month": "September",
+     "Solid fuels": 46.31101021566402,
+     "Gas ": 41.29287598944592,
+     "Electricity ": 55.8258642765685,
+     "Liquid fuels": 31.398201144726084
+    },
+    {
+     "year": 1999,
+     "Month": "October",
+     "Solid fuels": 47.4460839954597,
+     "Gas ": 41.29287598944592,
+     "Electricity ": 55.8258642765685,
+     "Liquid fuels": 31.398201144726084
+    },
+    {
+     "year": 1999,
+     "Month": "November",
+     "Solid fuels": 47.559591373439275,
+     "Gas ": 41.29287598944592,
+     "Electricity ": 55.8258642765685,
+     "Liquid fuels": 33.19705641864268
+    },
+    {
+     "year": 1999,
+     "Month": "December",
+     "Solid fuels": 47.67309875141885,
+     "Gas ": 41.29287598944592,
+     "Electricity ": 55.8258642765685,
+     "Liquid fuels": 38.10302534750613
+    },
+    {
+     "year": 2000,
+     "Month": "January",
+     "Solid fuels": 47.786606129398415,
+     "Gas ": 41.29287598944592,
+     "Electricity ": 55.8258642765685,
+     "Liquid fuels": 37.28536385936223
+    },
+    {
+     "year": 2000,
+     "Month": "February",
+     "Solid fuels": 47.67309875141885,
+     "Gas ": 41.29287598944592,
+     "Electricity ": 55.8258642765685,
+     "Liquid fuels": 37.53066230580539
+    },
+    {
+     "year": 2000,
+     "Month": "March",
+     "Solid fuels": 47.786606129398415,
+     "Gas ": 41.29287598944592,
+     "Electricity ": 55.697823303457106,
+     "Liquid fuels": 38.75715453802126
+    },
+    {
+     "year": 2000,
+     "Month": "April",
+     "Solid fuels": 47.67309875141885,
+     "Gas ": 40.23746701846966,
+     "Electricity ": 55.56978233034572,
+     "Liquid fuels": 37.69419460343418
+    },
+    {
+     "year": 2000,
+     "Month": "May",
+     "Solid fuels": 46.53802497162316,
+     "Gas ": 40.23746701846966,
+     "Electricity ": 55.05761843790013,
+     "Liquid fuels": 36.794766966475876
+    },
+    {
+     "year": 2000,
+     "Month": "June",
+     "Solid fuels": 46.19750283768445,
+     "Gas ": 40.23746701846966,
+     "Electricity ": 54.545454545454554,
+     "Liquid fuels": 37.85772690106296
+    },
+    {
+     "year": 2000,
+     "Month": "July",
+     "Solid fuels": 46.08399545970489,
+     "Gas ": 40.23746701846966,
+     "Electricity ": 54.16133162612036,
+     "Liquid fuels": 40.88307440719542
+    },
+    {
+     "year": 2000,
+     "Month": "August",
+     "Solid fuels": 46.19750283768445,
+     "Gas ": 40.23746701846966,
+     "Electricity ": 54.16133162612036,
+     "Liquid fuels": 41.21013900245298
+    },
+    {
+     "year": 2000,
+     "Month": "September",
+     "Solid fuels": 47.105561861521004,
+     "Gas ": 40.23746701846966,
+     "Electricity ": 54.16133162612036,
+     "Liquid fuels": 52.16680294358136
+    },
+    {
+     "year": 2000,
+     "Month": "October",
+     "Solid fuels": 48.58115777525539,
+     "Gas ": 40.36939313984169,
+     "Electricity ": 54.16133162612036,
+     "Liquid fuels": 55.192150449713814
+    },
+    {
+     "year": 2000,
+     "Month": "November",
+     "Solid fuels": 49.03518728717367,
+     "Gas ": 40.36939313984169,
+     "Electricity ": 54.16133162612036,
+     "Liquid fuels": 51.43090760425184
+    },
+    {
+     "year": 2000,
+     "Month": "December",
+     "Solid fuels": 49.148694665153236,
+     "Gas ": 40.36939313984169,
+     "Electricity ": 54.16133162612036,
+     "Liquid fuels": 48.81439084219134
+    },
+    {
+     "year": 2001,
+     "Month": "January",
+     "Solid fuels": 49.26220204313281,
+     "Gas ": 40.36939313984169,
+     "Electricity ": 54.16133162612036,
+     "Liquid fuels": 42.354865085854456
+    },
+    {
+     "year": 2001,
+     "Month": "February",
+     "Solid fuels": 49.148694665153236,
+     "Gas ": 40.50131926121372,
+     "Electricity ": 54.16133162612036,
+     "Liquid fuels": 43.008994276369584
+    },
+    {
+     "year": 2001,
+     "Month": "March",
+     "Solid fuels": 49.148694665153236,
+     "Gas ": 40.50131926121372,
+     "Electricity ": 54.16133162612036,
+     "Liquid fuels": 41.61896974652494
+    },
+    {
+     "year": 2001,
+     "Month": "April",
+     "Solid fuels": 49.148694665153236,
+     "Gas ": 42.0844327176781,
+     "Electricity ": 54.16133162612036,
+     "Liquid fuels": 40.31071136549468
+    },
+    {
+     "year": 2001,
+     "Month": "May",
+     "Solid fuels": 48.58115777525539,
+     "Gas ": 42.21635883905013,
+     "Electricity ": 54.16133162612036,
+     "Liquid fuels": 42.109566639411284
+    },
+    {
+     "year": 2001,
+     "Month": "June",
+     "Solid fuels": 48.35414301929626,
+     "Gas ": 42.21635883905013,
+     "Electricity ": 54.289372599231754,
+     "Liquid fuels": 42.19133278822568
+    },
+    {
+     "year": 2001,
+     "Month": "July",
+     "Solid fuels": 48.12712826333712,
+     "Gas ": 42.21635883905013,
+     "Electricity ": 54.289372599231754,
+     "Liquid fuels": 40.39247751430908
+    },
+    {
+     "year": 2001,
+     "Month": "August",
+     "Solid fuels": 48.240635641316686,
+     "Gas ": 42.21635883905013,
+     "Electricity ": 54.289372599231754,
+     "Liquid fuels": 39.16598528209321
+    },
+    {
+     "year": 2001,
+     "Month": "September",
+     "Solid fuels": 50.62429057888763,
+     "Gas ": 42.21635883905013,
+     "Electricity ": 54.41741357234315,
+     "Liquid fuels": 46.60670482420278
+    },
+    {
+     "year": 2001,
+     "Month": "October",
+     "Solid fuels": 51.87287173666289,
+     "Gas ": 42.21635883905013,
+     "Electricity ": 54.41741357234315,
+     "Liquid fuels": 38.51185609157809
+    },
+    {
+     "year": 2001,
+     "Month": "November",
+     "Solid fuels": 52.213393870601585,
+     "Gas ": 42.21635883905013,
+     "Electricity ": 54.41741357234315,
+     "Liquid fuels": 34.91414554374489
+    },
+    {
+     "year": 2001,
+     "Month": "December",
+     "Solid fuels": 52.32690124858116,
+     "Gas ": 42.21635883905013,
+     "Electricity ": 54.41741357234315,
+     "Liquid fuels": 32.78822567457073
+    },
+    {
+     "year": 2002,
+     "Month": "January",
+     "Solid fuels": 52.32690124858116,
+     "Gas ": 44.06332453825858,
+     "Electricity ": 54.41741357234315,
+     "Liquid fuels": 34.341782502044154
+    },
+    {
+     "year": 2002,
+     "Month": "February",
+     "Solid fuels": 52.32690124858116,
+     "Gas ": 44.06332453825858,
+     "Electricity ": 54.41741357234315,
+     "Liquid fuels": 33.19705641864268
+    },
+    {
+     "year": 2002,
+     "Month": "March",
+     "Solid fuels": 52.44040862656073,
+     "Gas ": 44.19525065963061,
+     "Electricity ": 54.41741357234315,
+     "Liquid fuels": 35.241210139002455
+    },
+    {
+     "year": 2002,
+     "Month": "April",
+     "Solid fuels": 52.44040862656073,
+     "Gas ": 44.32717678100264,
+     "Electricity ": 54.41741357234315,
+     "Liquid fuels": 36.549468520032704
+    },
+    {
+     "year": 2002,
+     "Month": "May",
+     "Solid fuels": 51.645856980703755,
+     "Gas ": 44.32717678100264,
+     "Electricity ": 54.545454545454554,
+     "Liquid fuels": 36.71300081766149
+    },
+    {
+     "year": 2002,
+     "Month": "June",
+     "Solid fuels": 51.41884222474461,
+     "Gas ": 44.459102902374674,
+     "Electricity ": 54.545454545454554,
+     "Liquid fuels": 35.7318070318888
+    },
+    {
+     "year": 2002,
+     "Month": "July",
+     "Solid fuels": 51.41884222474461,
+     "Gas ": 44.459102902374674,
+     "Electricity ": 54.545454545454554,
+     "Liquid fuels": 35.241210139002455
+    },
+    {
+     "year": 2002,
+     "Month": "August",
+     "Solid fuels": 51.30533484676505,
+     "Gas ": 44.459102902374674,
+     "Electricity ": 54.545454545454554,
+     "Liquid fuels": 34.75061324611611
+    },
+    {
+     "year": 2002,
+     "Month": "September",
+     "Solid fuels": 52.213393870601585,
+     "Gas ": 44.459102902374674,
+     "Electricity ": 54.545454545454554,
+     "Liquid fuels": 39.329517579721994
+    },
+    {
+     "year": 2002,
+     "Month": "October",
+     "Solid fuels": 53.23496027241771,
+     "Gas ": 44.459102902374674,
+     "Electricity ": 54.545454545454554,
+     "Liquid fuels": 39.73834832379396
+    },
+    {
+     "year": 2002,
+     "Month": "November",
+     "Solid fuels": 53.68898978433598,
+     "Gas ": 44.459102902374674,
+     "Electricity ": 54.545454545454554,
+     "Liquid fuels": 36.05887162714637
+    },
+    {
+     "year": 2002,
+     "Month": "December",
+     "Solid fuels": 53.57548240635642,
+     "Gas ": 44.5910290237467,
+     "Electricity ": 54.545454545454554,
+     "Liquid fuels": 39.98364677023712
+    },
+    {
+     "year": 2003,
+     "Month": "January",
+     "Solid fuels": 53.46197502837685,
+     "Gas ": 44.5910290237467,
+     "Electricity ": 54.67349551856595,
+     "Liquid fuels": 41.86426819296811
+    },
+    {
+     "year": 2003,
+     "Month": "February",
+     "Solid fuels": 53.46197502837685,
+     "Gas ": 44.5910290237467,
+     "Electricity ": 54.67349551856595,
+     "Liquid fuels": 49.223221586263286
+    },
+    {
+     "year": 2003,
+     "Month": "March",
+     "Solid fuels": 53.57548240635642,
+     "Gas ": 44.5910290237467,
+     "Electricity ": 54.67349551856595,
+     "Liquid fuels": 50.695012264922326
+    },
+    {
+     "year": 2003,
+     "Month": "April",
+     "Solid fuels": 53.23496027241771,
+     "Gas ": 44.72295514511873,
+     "Electricity ": 54.67349551856595,
+     "Liquid fuels": 37.93949304987735
+    },
+    {
+     "year": 2003,
+     "Month": "May",
+     "Solid fuels": 52.667423382519864,
+     "Gas ": 44.9868073878628,
+     "Electricity ": 54.80153649167734,
+     "Liquid fuels": 35.65004088307441
+    },
+    {
+     "year": 2003,
+     "Month": "June",
+     "Solid fuels": 52.55391600454029,
+     "Gas ": 45.25065963060686,
+     "Electricity ": 54.929577464788736,
+     "Liquid fuels": 34.995911692559275
+    },
+    {
+     "year": 2003,
+     "Month": "July",
+     "Solid fuels": 52.55391600454029,
+     "Gas ": 45.382585751978894,
+     "Electricity ": 55.05761843790013,
+     "Liquid fuels": 36.22240392477514
+    },
+    {
+     "year": 2003,
+     "Month": "August",
+     "Solid fuels": 52.55391600454029,
+     "Gas ": 45.514511873350926,
+     "Electricity ": 55.31370038412293,
+     "Liquid fuels": 37.69419460343418
+    },
+    {
+     "year": 2003,
+     "Month": "September",
+     "Solid fuels": 53.34846765039728,
+     "Gas ": 45.514511873350926,
+     "Electricity ": 55.44174135723432,
+     "Liquid fuels": 37.20359771054784
+    },
+    {
+     "year": 2003,
+     "Month": "October",
+     "Solid fuels": 54.3700340522134,
+     "Gas ": 45.64643799472296,
+     "Electricity ": 55.44174135723432,
+     "Liquid fuels": 40.39247751430908
+    },
+    {
+     "year": 2003,
+     "Month": "November",
+     "Solid fuels": 54.48354143019296,
+     "Gas ": 45.77836411609499,
+     "Electricity ": 55.56978233034572,
+     "Liquid fuels": 40.228945216680295
+    },
+    {
+     "year": 2003,
+     "Month": "December",
+     "Solid fuels": 54.48354143019296,
+     "Gas ": 45.91029023746702,
+     "Electricity ": 55.697823303457106,
+     "Liquid fuels": 42.109566639411284
+    },
+    {
+     "year": 2004,
+     "Month": "January",
+     "Solid fuels": 54.710556186152104,
+     "Gas ": 46.17414248021108,
+     "Electricity ": 55.953905249679906,
+     "Liquid fuels": 41.29190515126738
+    },
+    {
+     "year": 2004,
+     "Month": "February",
+     "Solid fuels": 54.937570942111236,
+     "Gas ": 46.701846965699204,
+     "Electricity ": 56.33802816901409,
+     "Liquid fuels": 40.228945216680295
+    },
+    {
+     "year": 2004,
+     "Month": "March",
+     "Solid fuels": 54.82406356413166,
+     "Gas ": 47.361477572559366,
+     "Electricity ": 56.97823303457107,
+     "Liquid fuels": 40.71954210956664
+    },
+    {
+     "year": 2004,
+     "Month": "April",
+     "Solid fuels": 54.82406356413166,
+     "Gas ": 47.75725593667547,
+     "Electricity ": 57.61843790012805,
+     "Liquid fuels": 44.235486508585446
+    },
+    {
+     "year": 2004,
+     "Month": "May",
+     "Solid fuels": 54.3700340522134,
+     "Gas ": 47.88918205804749,
+     "Electricity ": 57.874519846350836,
+     "Liquid fuels": 47.66966475878986
+    },
+    {
+     "year": 2004,
+     "Month": "June",
+     "Solid fuels": 54.25652667423383,
+     "Gas ": 48.02110817941953,
+     "Electricity ": 58.25864276568502,
+     "Liquid fuels": 44.889615699100574
+    },
+    {
+     "year": 2004,
+     "Month": "July",
+     "Solid fuels": 54.59704880817253,
+     "Gas ": 48.15303430079156,
+     "Electricity ": 58.38668373879642,
+     "Liquid fuels": 45.29844644317252
+    },
+    {
+     "year": 2004,
+     "Month": "August",
+     "Solid fuels": 55.50510783200908,
+     "Gas ": 48.28496042216359,
+     "Electricity ": 58.51472471190782,
+     "Liquid fuels": 49.71381847914963
+    },
+    {
+     "year": 2004,
+     "Month": "September",
+     "Solid fuels": 56.8671963677639,
+     "Gas ": 48.416886543535625,
+     "Electricity ": 58.7708066581306,
+     "Liquid fuels": 52.16680294358136
+    },
+    {
+     "year": 2004,
+     "Month": "October",
+     "Solid fuels": 59.13734392735528,
+     "Gas ": 49.07651715039578,
+     "Electricity ": 59.411011523687584,
+     "Liquid fuels": 59.19869174161898
+    },
+    {
+     "year": 2004,
+     "Month": "November",
+     "Solid fuels": 59.8183881952327,
+     "Gas ": 50.65963060686016,
+     "Electricity ": 60.43533930857875,
+     "Liquid fuels": 55.02861815208504
+    },
+    {
+     "year": 2004,
+     "Month": "December",
+     "Solid fuels": 60.385925085130545,
+     "Gas ": 52.37467018469657,
+     "Electricity ": 61.587708066581314,
+     "Liquid fuels": 51.02207686017989
+    },
+    {
+     "year": 2005,
+     "Month": "January",
+     "Solid fuels": 60.61293984108968,
+     "Gas ": 53.29815303430079,
+     "Electricity ": 62.483994878361074,
+     "Liquid fuels": 51.7579721995094
+    },
+    {
+     "year": 2005,
+     "Month": "February",
+     "Solid fuels": 61.06696935300795,
+     "Gas ": 53.562005277044854,
+     "Electricity ": 62.996158770806666,
+     "Liquid fuels": 51.83973834832379
+    },
+    {
+     "year": 2005,
+     "Month": "March",
+     "Solid fuels": 61.18047673098752,
+     "Gas ": 53.69393139841689,
+     "Electricity ": 63.38028169014085,
+     "Liquid fuels": 59.19869174161898
+    },
+    {
+     "year": 2005,
+     "Month": "April",
+     "Solid fuels": 61.18047673098752,
+     "Gas ": 53.95778364116095,
+     "Electricity ": 63.63636363636365,
+     "Liquid fuels": 61.324611610793134
+    },
+    {
+     "year": 2005,
+     "Month": "May",
+     "Solid fuels": 60.61293984108968,
+     "Gas ": 54.089709762532976,
+     "Electricity ": 63.76440460947504,
+     "Liquid fuels": 57.89043336058871
+    },
+    {
+     "year": 2005,
+     "Month": "June",
+     "Solid fuels": 60.385925085130545,
+     "Gas ": 54.35356200527705,
+     "Electricity ": 63.89244558258643,
+     "Liquid fuels": 63.695829926410475
+    },
+    {
+     "year": 2005,
+     "Month": "July",
+     "Solid fuels": 60.27241770715097,
+     "Gas ": 54.35356200527705,
+     "Electricity ": 63.89244558258643,
+     "Liquid fuels": 68.11120196238757
+    },
+    {
+     "year": 2005,
+     "Month": "August",
+     "Solid fuels": 61.06696935300795,
+     "Gas ": 54.485488126649074,
+     "Electricity ": 64.02048655569783,
+     "Liquid fuels": 72.28127555192151
+    },
+    {
+     "year": 2005,
+     "Month": "September",
+     "Solid fuels": 61.74801362088536,
+     "Gas ": 55.145118733509236,
+     "Electricity ": 64.7887323943662,
+     "Liquid fuels": 73.83483237939494
+    },
+    {
+     "year": 2005,
+     "Month": "October",
+     "Solid fuels": 64.35868331441544,
+     "Gas ": 57.25593667546174,
+     "Electricity ": 66.19718309859157,
+     "Liquid fuels": 76.778413736713
+    },
+    {
+     "year": 2005,
+     "Month": "November",
+     "Solid fuels": 65.03972758229285,
+     "Gas ": 59.36675461741425,
+     "Electricity ": 67.6056338028169,
+     "Liquid fuels": 68.43826655764515
+    },
+    {
+     "year": 2005,
+     "Month": "December",
+     "Solid fuels": 65.15323496027243,
+     "Gas ": 60.554089709762536,
+     "Electricity ": 68.24583866837388,
+     "Liquid fuels": 70.97301717089125
+    },
+    {
+     "year": 2006,
+     "Month": "January",
+     "Solid fuels": 65.26674233825199,
+     "Gas ": 61.08179419525066,
+     "Electricity ": 68.88604353393086,
+     "Liquid fuels": 72.28127555192151
+    },
+    {
+     "year": 2006,
+     "Month": "February",
+     "Solid fuels": 65.26674233825199,
+     "Gas ": 61.34564643799473,
+     "Electricity ": 69.65428937259924,
+     "Liquid fuels": 73.67130008176615
+    },
+    {
+     "year": 2006,
+     "Month": "March",
+     "Solid fuels": 65.38024971623156,
+     "Gas ": 63.3245382585752,
+     "Electricity ": 71.57490396927017,
+     "Liquid fuels": 74.48896156991005
+    },
+    {
+     "year": 2006,
+     "Month": "April",
+     "Solid fuels": 65.49375709421113,
+     "Gas ": 67.28232189973615,
+     "Electricity ": 74.64788732394366,
+     "Liquid fuels": 76.61488143908423
+    },
+    {
+     "year": 2006,
+     "Month": "May",
+     "Solid fuels": 66.17480136208854,
+     "Gas ": 71.37203166226914,
+     "Electricity ": 77.72087067861717,
+     "Liquid fuels": 77.10547833197057
+    },
+    {
+     "year": 2006,
+     "Month": "June",
+     "Solid fuels": 64.9262202043133,
+     "Gas ": 73.35092348284961,
+     "Electricity ": 79.6414852752881,
+     "Liquid fuels": 77.02371218315618
+    },
+    {
+     "year": 2006,
+     "Month": "July",
+     "Solid fuels": 64.81271282633372,
+     "Gas ": 74.14248021108179,
+     "Electricity ": 80.40973111395647,
+     "Liquid fuels": 79.47669664758791
+    },
+    {
+     "year": 2006,
+     "Month": "August",
+     "Solid fuels": 65.38024971623156,
+     "Gas ": 74.93403693931398,
+     "Electricity ": 81.04993597951345,
+     "Liquid fuels": 77.75960752248568
+    },
+    {
+     "year": 2006,
+     "Month": "September",
+     "Solid fuels": 66.17480136208854,
+     "Gas ": 76.78100263852244,
+     "Electricity ": 82.0742637644046,
+     "Liquid fuels": 73.67130008176615
+    },
+    {
+     "year": 2006,
+     "Month": "October",
+     "Solid fuels": 69.5800227014756,
+     "Gas ": 80.47493403693932,
+     "Electricity ": 84.25096030729834,
+     "Liquid fuels": 67.62060506950122
+    },
+    {
+     "year": 2006,
+     "Month": "November",
+     "Solid fuels": 70.37457434733258,
+     "Gas ": 82.98153034300792,
+     "Electricity ": 85.91549295774648,
+     "Liquid fuels": 64.51349141455438
+    },
+    {
+     "year": 2006,
+     "Month": "December",
+     "Solid fuels": 70.37457434733258,
+     "Gas ": 84.5646437994723,
+     "Electricity ": 86.93982074263765,
+     "Liquid fuels": 67.62060506950122
+    },
+    {
+     "year": 2007,
+     "Month": "January",
+     "Solid fuels": 70.48808172531214,
+     "Gas ": 84.82849604221636,
+     "Electricity ": 87.32394366197184,
+     "Liquid fuels": 62.87816843826657
+    },
+    {
+     "year": 2007,
+     "Month": "February",
+     "Solid fuels": 70.71509648127129,
+     "Gas ": 85.09234828496042,
+     "Electricity ": 87.58002560819463,
+     "Liquid fuels": 64.34995911692559
+    },
+    {
+     "year": 2007,
+     "Month": "March",
+     "Solid fuels": 70.71509648127129,
+     "Gas ": 84.43271767810026,
+     "Electricity ": 87.58002560819463,
+     "Liquid fuels": 66.55764513491415
+    },
+    {
+     "year": 2007,
+     "Month": "April",
+     "Solid fuels": 70.71509648127129,
+     "Gas ": 82.05804749340369,
+     "Electricity ": 86.81177976952625,
+     "Liquid fuels": 69.33769419460344
+    },
+    {
+     "year": 2007,
+     "Month": "May",
+     "Solid fuels": 70.37457434733258,
+     "Gas ": 79.41952506596307,
+     "Electricity ": 85.78745198463508,
+     "Liquid fuels": 69.01062959934588
+    },
+    {
+     "year": 2007,
+     "Month": "June",
+     "Solid fuels": 70.03405221339388,
+     "Gas ": 77.17678100263853,
+     "Electricity ": 84.63508322663252,
+     "Liquid fuels": 70.72771872444808
+    },
+    {
+     "year": 2007,
+     "Month": "July",
+     "Solid fuels": 69.9205448354143,
+     "Gas ": 75.46174142480211,
+     "Electricity ": 83.61075544174136,
+     "Liquid fuels": 72.60834014717906
+    },
+    {
+     "year": 2007,
+     "Month": "August",
+     "Solid fuels": 70.03405221339388,
+     "Gas ": 74.40633245382587,
+     "Electricity ": 83.09859154929579,
+     "Liquid fuels": 71.13654946852004
+    },
+    {
+     "year": 2007,
+     "Month": "September",
+     "Solid fuels": 70.82860385925085,
+     "Gas ": 73.87862796833772,
+     "Electricity ": 83.09859154929579,
+     "Liquid fuels": 75.47015535568275
+    },
+    {
+     "year": 2007,
+     "Month": "October",
+     "Solid fuels": 72.8717366628831,
+     "Gas ": 73.61477572559366,
+     "Electricity ": 82.97055057618438,
+     "Liquid fuels": 78.25020441537204
+    },
+    {
+     "year": 2007,
+     "Month": "November",
+     "Solid fuels": 74.23382519863793,
+     "Gas ": 73.61477572559366,
+     "Electricity ": 82.97055057618438,
+     "Liquid fuels": 88.79803761242844
+    },
+    {
+     "year": 2007,
+     "Month": "December",
+     "Solid fuels": 75.70942111237231,
+     "Gas ": 73.7467018469657,
+     "Electricity ": 82.97055057618438,
+     "Liquid fuels": 89.2886345053148
+    },
+    {
+     "year": 2008,
+     "Month": "January",
+     "Solid fuels": 76.61748013620885,
+     "Gas ": 74.14248021108179,
+     "Electricity ": 83.35467349551855,
+     "Liquid fuels": 92.72281275551923
+    },
+    {
+     "year": 2008,
+     "Month": "February",
+     "Solid fuels": 76.95800227014756,
+     "Gas ": 83.37730870712402,
+     "Electricity ": 92.18950064020487,
+     "Liquid fuels": 92.88634505314799
+    },
+    {
+     "year": 2008,
+     "Month": "March",
+     "Solid fuels": 77.29852440408627,
+     "Gas ": 83.37730870712402,
+     "Electricity ": 92.18950064020487,
+     "Liquid fuels": 106.05069501226492
+    },
+    {
+     "year": 2008,
+     "Month": "April",
+     "Solid fuels": 77.52553916004541,
+     "Gas ": 85.09234828496042,
+     "Electricity ": 94.1101152368758,
+     "Liquid fuels": 117.25265739983648
+    },
+    {
+     "year": 2008,
+     "Month": "May",
+     "Solid fuels": 79.11464245175938,
+     "Gas ": 85.09234828496042,
+     "Electricity ": 94.1101152368758,
+     "Liquid fuels": 127.22812755519215
+    },
+    {
+     "year": 2008,
+     "Month": "June",
+     "Solid fuels": 80.70374574347332,
+     "Gas ": 85.09234828496042,
+     "Electricity ": 94.1101152368758,
+     "Liquid fuels": 132.86999182338513
+    },
+    {
+     "year": 2008,
+     "Month": "July",
+     "Solid fuels": 81.4982973893303,
+     "Gas ": 85.22427440633244,
+     "Electricity ": 94.1101152368758,
+     "Liquid fuels": 139.57481602616517
+    },
+    {
+     "year": 2008,
+     "Month": "August",
+     "Solid fuels": 82.40635641316686,
+     "Gas ": 95.11873350923481,
+     "Electricity ": 98.07938540332907,
+     "Liquid fuels": 118.31561733442355
+    },
+    {
+     "year": 2008,
+     "Month": "September",
+     "Solid fuels": 89.78433598183881,
+     "Gas ": 110.8179419525066,
+     "Electricity ": 108.19462227912933,
+     "Liquid fuels": 115.29026982829109
+    },
+    {
+     "year": 2008,
+     "Month": "October",
+     "Solid fuels": 98.18388195232691,
+     "Gas ": 111.08179419525067,
+     "Electricity ": 108.9628681177977,
+     "Liquid fuels": 98.52820932134097
+    },
+    {
+     "year": 2008,
+     "Month": "November",
+     "Solid fuels": 98.97843359818388,
+     "Gas ": 110.94986807387863,
+     "Electricity ": 108.9628681177977,
+     "Liquid fuels": 90.51512673753066
+    },
+    {
+     "year": 2008,
+     "Month": "December",
+     "Solid fuels": 99.88649262202044,
+     "Gas ": 110.94986807387863,
+     "Electricity ": 108.9628681177977,
+     "Liquid fuels": 80.53965658217498
+    },
+    {
+     "year": 2009,
+     "Month": "January",
+     "Solid fuels": 101.02156640181612,
+     "Gas ": 110.94986807387863,
+     "Electricity ": 108.70678617157492,
+     "Liquid fuels": 79.31316434995912
+    },
+    {
+     "year": 2009,
+     "Month": "February",
+     "Solid fuels": 101.13507377979569,
+     "Gas ": 110.94986807387863,
+     "Electricity ": 108.70678617157492,
+     "Liquid fuels": 74.89779231398201
+    },
+    {
+     "year": 2009,
+     "Month": "March",
+     "Solid fuels": 101.02156640181612,
+     "Gas ": 106.2005277044855,
+     "Electricity ": 108.19462227912933,
+     "Liquid fuels": 67.53883892068683
+    },
+    {
+     "year": 2009,
+     "Month": "April",
+     "Solid fuels": 101.02156640181612,
+     "Gas ": 105.14511873350925,
+     "Electricity ": 102.68886043533931,
+     "Liquid fuels": 71.545380212592
+    },
+    {
+     "year": 2009,
+     "Month": "May",
+     "Solid fuels": 99.31895573212259,
+     "Gas ": 105.14511873350925,
+     "Electricity ": 100.5121638924456,
+     "Liquid fuels": 71.62714636140637
+    },
+    {
+     "year": 2009,
+     "Month": "June",
+     "Solid fuels": 98.52440408626562,
+     "Gas ": 105.14511873350925,
+     "Electricity ": 100.5121638924456,
+     "Liquid fuels": 79.23139820114473
+    },
+    {
+     "year": 2009,
+     "Month": "July",
+     "Solid fuels": 97.72985244040862,
+     "Gas ": 104.6174142480211,
+     "Electricity ": 100.5121638924456,
+     "Liquid fuels": 70.89125102207686
+    },
+    {
+     "year": 2009,
+     "Month": "August",
+     "Solid fuels": 98.29738933030647,
+     "Gas ": 104.6174142480211,
+     "Electricity ": 100.5121638924456,
+     "Liquid fuels": 78.98609975470156
+    },
+    {
+     "year": 2009,
+     "Month": "September",
+     "Solid fuels": 98.52440408626562,
+     "Gas ": 104.6174142480211,
+     "Electricity ": 100.5121638924456,
+     "Liquid fuels": 77.10547833197057
+    },
+    {
+     "year": 2009,
+     "Month": "October",
+     "Solid fuels": 100.56753688989784,
+     "Gas ": 104.48548812664909,
+     "Electricity ": 100.12804097311141,
+     "Liquid fuels": 82.01144726083402
+    },
+    {
+     "year": 2009,
+     "Month": "November",
+     "Solid fuels": 101.36208853575484,
+     "Gas ": 104.48548812664909,
+     "Electricity ": 100.12804097311141,
+     "Liquid fuels": 84.30089942763695
+    },
+    {
+     "year": 2009,
+     "Month": "December",
+     "Solid fuels": 101.47559591373441,
+     "Gas ": 104.48548812664909,
+     "Electricity ": 100.12804097311141,
+     "Liquid fuels": 86.18152085036796
+    },
+    {
+     "year": 2010,
+     "Month": "January",
+     "Solid fuels": 101.36208853575484,
+     "Gas ": 104.6174142480211,
+     "Electricity ": 100.12804097311141,
+     "Liquid fuels": 103.5977105478332
+    },
+    {
+     "year": 2010,
+     "Month": "February",
+     "Solid fuels": 101.47559591373441,
+     "Gas ": 101.58311345646437,
+     "Electricity ": 100.12804097311141,
+     "Liquid fuels": 90.59689288634505
+    },
+    {
+     "year": 2010,
+     "Month": "March",
+     "Solid fuels": 101.47559591373441,
+     "Gas ": 101.58311345646437,
+     "Electricity ": 100.12804097311141,
+     "Liquid fuels": 96.97465249386754
+    },
+    {
+     "year": 2010,
+     "Month": "April",
+     "Solid fuels": 101.47559591373441,
+     "Gas ": 98.68073878627969,
+     "Electricity ": 99.87195902688862,
+     "Liquid fuels": 100.08176614881438
+    },
+    {
+     "year": 2010,
+     "Month": "May",
+     "Solid fuels": 99.09194097616346,
+     "Gas ": 98.68073878627969,
+     "Electricity ": 99.87195902688862,
+     "Liquid fuels": 100.08176614881438
+    },
+    {
+     "year": 2010,
+     "Month": "June",
+     "Solid fuels": 97.84335981838821,
+     "Gas ": 98.68073878627969,
+     "Electricity ": 99.87195902688862,
+     "Liquid fuels": 96.81112019623876
+    },
+    {
+     "year": 2010,
+     "Month": "July",
+     "Solid fuels": 96.93530079455167,
+     "Gas ": 98.68073878627969,
+     "Electricity ": 99.87195902688862,
+     "Liquid fuels": 95.01226492232216
+    },
+    {
+     "year": 2010,
+     "Month": "August",
+     "Solid fuels": 97.61634506242906,
+     "Gas ": 98.68073878627969,
+     "Electricity ": 99.87195902688862,
+     "Liquid fuels": 94.76696647587899
+    },
+    {
+     "year": 2010,
+     "Month": "September",
+     "Solid fuels": 98.07037457434734,
+     "Gas ": 98.68073878627969,
+     "Electricity ": 99.87195902688862,
+     "Liquid fuels": 94.52166802943582
+    },
+    {
+     "year": 2010,
+     "Month": "October",
+     "Solid fuels": 101.02156640181612,
+     "Gas ": 98.68073878627969,
+     "Electricity ": 99.61587708066581,
+     "Liquid fuels": 98.2011447260834
+    },
+    {
+     "year": 2010,
+     "Month": "November",
+     "Solid fuels": 101.58910329171398,
+     "Gas ": 98.68073878627969,
+     "Electricity ": 99.61587708066581,
+     "Liquid fuels": 101.55355682747343
+    },
+    {
+     "year": 2010,
+     "Month": "December",
+     "Solid fuels": 102.1566401816118,
+     "Gas ": 103.16622691292876,
+     "Electricity ": 100.89628681177977,
+     "Liquid fuels": 128.12755519215045
+    },
+    {
+     "year": 2011,
+     "Month": "January",
+     "Solid fuels": 103.06469920544836,
+     "Gas ": 104.089709762533,
+     "Electricity ": 101.66453265044815,
+     "Liquid fuels": 125.51103843008995
+    },
+    {
+     "year": 2011,
+     "Month": "February",
+     "Solid fuels": 103.9727582292849,
+     "Gas ": 104.48548812664909,
+     "Electricity ": 103.20102432778488,
+     "Liquid fuels": 119.78740801308258
+    },
+    {
+     "year": 2011,
+     "Month": "March",
+     "Solid fuels": 103.74574347332577,
+     "Gas ": 105.0131926121372,
+     "Electricity ": 103.96927016645327,
+     "Liquid fuels": 130.4170073589534
+    },
+    {
+     "year": 2011,
+     "Month": "April",
+     "Solid fuels": 104.08626560726448,
+     "Gas ": 105.0131926121372,
+     "Electricity ": 103.96927016645327,
+     "Liquid fuels": 135.6500408830744
+    },
+    {
+     "year": 2011,
+     "Month": "May",
+     "Solid fuels": 102.72417707150964,
+     "Gas ": 105.0131926121372,
+     "Electricity ": 103.96927016645327,
+     "Liquid fuels": 125.42927228127556
+    },
+    {
+     "year": 2011,
+     "Month": "June",
+     "Solid fuels": 102.49716231555051,
+     "Gas ": 105.0131926121372,
+     "Electricity ": 103.96927016645327,
+     "Liquid fuels": 128.69991823385118
+    },
+    {
+     "year": 2011,
+     "Month": "July",
+     "Solid fuels": 102.72417707150964,
+     "Gas ": 105.0131926121372,
+     "Electricity ": 103.96927016645327,
+     "Liquid fuels": 124.77514309076044
+    },
+    {
+     "year": 2011,
+     "Month": "August",
+     "Solid fuels": 102.83768444948922,
+     "Gas ": 106.86015831134566,
+     "Electricity ": 104.99359795134444,
+     "Liquid fuels": 120.11447260834017
+    },
+    {
+     "year": 2011,
+     "Month": "September",
+     "Solid fuels": 103.40522133938705,
+     "Gas ": 120.71240105540898,
+     "Electricity ": 112.80409731113956,
+     "Liquid fuels": 123.79394930498775
+    },
+    {
+     "year": 2011,
+     "Month": "October",
+     "Solid fuels": 109.08059023836549,
+     "Gas ": 122.42744063324538,
+     "Electricity ": 114.46862996158774,
+     "Liquid fuels": 123.22158626328698
+    },
+    {
+     "year": 2011,
+     "Month": "November",
+     "Solid fuels": 109.87514188422247,
+     "Gas ": 123.61477572559367,
+     "Electricity ": 115.10883482714472,
+     "Liquid fuels": 130.90760425183973
+    },
+    {
+     "year": 2011,
+     "Month": "December",
+     "Solid fuels": 110.10215664018162,
+     "Gas ": 123.61477572559367,
+     "Electricity ": 115.10883482714472,
+     "Liquid fuels": 131.39820114472607
+    },
+    {
+     "year": 2012,
+     "Month": "January",
+     "Solid fuels": 110.21566401816119,
+     "Gas ": 123.61477572559367,
+     "Electricity ": 115.10883482714472,
+     "Liquid fuels": 131.64349959116925
+    },
+    {
+     "year": 2012,
+     "Month": "February",
+     "Solid fuels": 109.53461975028378,
+     "Gas ": 122.42744063324538,
+     "Electricity ": 113.70038412291935,
+     "Liquid fuels": 134.096484055601
+    },
+    {
+     "year": 2012,
+     "Month": "March",
+     "Solid fuels": 109.98864926220206,
+     "Gas ": 121.89973614775727,
+     "Electricity ": 112.41997439180538,
+     "Liquid fuels": 136.38593622240393
+    },
+    {
+     "year": 2012,
+     "Month": "April",
+     "Solid fuels": 109.98864926220206,
+     "Gas ": 121.2401055408971,
+     "Electricity ": 112.41997439180538,
+     "Liquid fuels": 134.8323793949305
+    },
+    {
+     "year": 2012,
+     "Month": "May",
+     "Solid fuels": 107.71850170261068,
+     "Gas ": 121.2401055408971,
+     "Electricity ": 112.29193341869399,
+     "Liquid fuels": 127.30989370400654
+    },
+    {
+     "year": 2012,
+     "Month": "June",
+     "Solid fuels": 106.81044267877414,
+     "Gas ": 121.2401055408971,
+     "Electricity ": 112.29193341869399,
+     "Liquid fuels": 117.41618969746526
+    },
+    {
+     "year": 2012,
+     "Month": "July",
+     "Solid fuels": 107.15096481271284,
+     "Gas ": 121.2401055408971,
+     "Electricity ": 112.29193341869399,
+     "Liquid fuels": 120.35977105478331
+    },
+    {
+     "year": 2012,
+     "Month": "August",
+     "Solid fuels": 107.03745743473326,
+     "Gas ": 121.2401055408971,
+     "Electricity ": 112.29193341869399,
+     "Liquid fuels": 128.86345053147997
+    },
+    {
+     "year": 2012,
+     "Month": "September",
+     "Solid fuels": 107.49148694665153,
+     "Gas ": 121.2401055408971,
+     "Electricity ": 112.29193341869399,
+     "Liquid fuels": 132.37939493049876
+    },
+    {
+     "year": 2012,
+     "Month": "October",
+     "Solid fuels": 108.39954597048809,
+     "Gas ": 121.2401055408971,
+     "Electricity ": 111.7797695262484,
+     "Liquid fuels": 133.8511856091578
+    },
+    {
+     "year": 2012,
+     "Month": "November",
+     "Solid fuels": 108.85357548240637,
+     "Gas ": 123.48284960422163,
+     "Electricity ": 113.82842509603076,
+     "Liquid fuels": 130.74407195421097
+    },
+    {
+     "year": 2012,
+     "Month": "December",
+     "Solid fuels": 109.42111237230421,
+     "Gas ": 130.07915567282322,
+     "Electricity ": 119.59026888604356,
+     "Liquid fuels": 137.5306623058054
+    },
+    {
+     "year": 2013,
+     "Month": "January",
+     "Solid fuels": 109.53461975028378,
+     "Gas ": 129.9472295514512,
+     "Electricity ": 119.59026888604356,
+     "Liquid fuels": 134.66884709730172
+    },
+    {
+     "year": 2013,
+     "Month": "February",
+     "Solid fuels": 109.76163450624293,
+     "Gas ": 131.2664907651715,
+     "Electricity ": 120.99871959026889,
+     "Liquid fuels": 143.17252657399837
+    },
+    {
+     "year": 2013,
+     "Month": "March",
+     "Solid fuels": 109.19409761634506,
+     "Gas ": 131.2664907651715,
+     "Electricity ": 120.99871959026889,
+     "Liquid fuels": 141.45543744889616
+    },
+    {
+     "year": 2013,
+     "Month": "April",
+     "Solid fuels": 109.19409761634506,
+     "Gas ": 131.2664907651715,
+     "Electricity ": 120.99871959026889,
+     "Liquid fuels": 133.8511856091578
+    },
+    {
+     "year": 2013,
+     "Month": "May",
+     "Solid fuels": 109.42111237230421,
+     "Gas ": 131.2664907651715,
+     "Electricity ": 120.99871959026889,
+     "Liquid fuels": 125.0204415372036
+    },
+    {
+     "year": 2013,
+     "Month": "June",
+     "Solid fuels": 109.30760499432463,
+     "Gas ": 131.2664907651715,
+     "Electricity ": 120.99871959026889,
+     "Liquid fuels": 124.69337694194604
+    },
+    {
+     "year": 2013,
+     "Month": "July",
+     "Solid fuels": 109.64812712826333,
+     "Gas ": 131.2664907651715,
+     "Electricity ": 121.38284250960308,
+     "Liquid fuels": 127.96402289452166
+    },
+    {
+     "year": 2013,
+     "Month": "August",
+     "Solid fuels": 109.53461975028378,
+     "Gas ": 131.2664907651715,
+     "Electricity ": 121.38284250960308,
+     "Liquid fuels": 128.04578904333604
+    },
+    {
+     "year": 2013,
+     "Month": "September",
+     "Solid fuels": 110.10215664018162,
+     "Gas ": 131.2664907651715,
+     "Electricity ": 121.38284250960308,
+     "Liquid fuels": 131.07113654946855
+    },
+    {
+     "year": 2013,
+     "Month": "October",
+     "Solid fuels": 111.35073779795688,
+     "Gas ": 131.2664907651715,
+     "Electricity ": 121.38284250960308,
+     "Liquid fuels": 127.14636140637776
+    },
+    {
+     "year": 2013,
+     "Month": "November",
+     "Solid fuels": 112.372304199773,
+     "Gas ": 131.2664907651715,
+     "Electricity ": 121.38284250960308,
+     "Liquid fuels": 124.69337694194604
+    },
+    {
+     "year": 2013,
+     "Month": "December",
+     "Solid fuels": 112.59931895573214,
+     "Gas ": 140.10554089709763,
+     "Electricity ": 129.3213828425096,
+     "Liquid fuels": 128.37285363859363
+    },
+    {
+     "year": 2014,
+     "Month": "January",
+     "Solid fuels": 113.28036322360956,
+     "Gas ": 138.7862796833773,
+     "Electricity ": 129.06530089628683,
+     "Liquid fuels": 125.10220768601799
+    },
+    {
+     "year": 2014,
+     "Month": "February",
+     "Solid fuels": 113.28036322360956,
+     "Gas ": 139.0501319261214,
+     "Electricity ": 129.3213828425096,
+     "Liquid fuels": 125.26573998364677
+    },
+    {
+     "year": 2014,
+     "Month": "March",
+     "Solid fuels": 113.16685584562998,
+     "Gas ": 138.65435356200527,
+     "Electricity ": 129.06530089628683,
+     "Liquid fuels": 121.66802943581358
+    },
+    {
+     "year": 2014,
+     "Month": "April",
+     "Solid fuels": 113.39387060158911,
+     "Gas ": 137.9947229551451,
+     "Electricity ": 128.29705505761845,
+     "Liquid fuels": 119.6238757154538
+    },
+    {
+     "year": 2014,
+     "Month": "May",
+     "Solid fuels": 112.48581157775254,
+     "Gas ": 137.9947229551451,
+     "Electricity ": 128.29705505761845,
+     "Liquid fuels": 118.31561733442355
+    },
+    {
+     "year": 2014,
+     "Month": "June",
+     "Solid fuels": 112.25879682179342,
+     "Gas ": 137.9947229551451,
+     "Electricity ": 128.29705505761845,
+     "Liquid fuels": 117.49795584627964
+    },
+    {
+     "year": 2014,
+     "Month": "July",
+     "Solid fuels": 112.14528944381385,
+     "Gas ": 137.9947229551451,
+     "Electricity ": 128.29705505761845,
+     "Liquid fuels": 116.43499591169257
+    },
+    {
+     "year": 2014,
+     "Month": "August",
+     "Solid fuels": 111.91827468785472,
+     "Gas ": 137.9947229551451,
+     "Electricity ": 128.29705505761845,
+     "Liquid fuels": 116.68029435813571
+    },
+    {
+     "year": 2014,
+     "Month": "September",
+     "Solid fuels": 112.48581157775254,
+     "Gas ": 137.9947229551451,
+     "Electricity ": 128.29705505761845,
+     "Liquid fuels": 114.96320523303352
+    },
+    {
+     "year": 2014,
+     "Month": "October",
+     "Solid fuels": 114.64245175936436,
+     "Gas ": 137.9947229551451,
+     "Electricity ": 128.29705505761845,
+     "Liquid fuels": 109.48487326246934
+    },
+    {
+     "year": 2014,
+     "Month": "November",
+     "Solid fuels": 114.75595913734394,
+     "Gas ": 137.9947229551451,
+     "Electricity ": 128.29705505761845,
+     "Liquid fuels": 108.0948487326247
+    },
+    {
+     "year": 2014,
+     "Month": "December",
+     "Solid fuels": 114.75595913734394,
+     "Gas ": 137.9947229551451,
+     "Electricity ": 128.29705505761845,
+     "Liquid fuels": 99.34587080948486
+    },
+    {
+     "year": 2015,
+     "Month": "January",
+     "Solid fuels": 114.64245175936436,
+     "Gas ": 137.33509234828495,
+     "Electricity ": 128.29705505761845,
+     "Liquid fuels": 86.67211774325429
+    },
+    {
+     "year": 2015,
+     "Month": "February",
+     "Solid fuels": 114.64245175936436,
+     "Gas ": 136.41160949868075,
+     "Electricity ": 128.29705505761845,
+     "Liquid fuels": 91.00572363041701
+    },
+    {
+     "year": 2015,
+     "Month": "March",
+     "Solid fuels": 114.75595913734394,
+     "Gas ": 132.8496042216359,
+     "Electricity ": 128.29705505761845,
+     "Liquid fuels": 88.30744071954211
+    },
+    {
+     "year": 2015,
+     "Month": "April",
+     "Solid fuels": 114.86946651532351,
+     "Gas ": 132.71767810026384,
+     "Electricity ": 128.04097311139566,
+     "Liquid fuels": 88.47097301717089
+    },
+    {
+     "year": 2015,
+     "Month": "May",
+     "Solid fuels": 112.48581157775254,
+     "Gas ": 131.92612137203164,
+     "Electricity ": 128.04097311139566,
+     "Liquid fuels": 89.77923139820115
+    },
+    {
+     "year": 2015,
+     "Month": "June",
+     "Solid fuels": 112.14528944381385,
+     "Gas ": 131.92612137203164,
+     "Electricity ": 127.91293213828428,
+     "Liquid fuels": 87.4080130825838
+    },
+    {
+     "year": 2015,
+     "Month": "July",
+     "Solid fuels": 112.03178206583428,
+     "Gas ": 131.92612137203164,
+     "Electricity ": 127.91293213828428,
+     "Liquid fuels": 83.72853638593622
+    },
+    {
+     "year": 2015,
+     "Month": "August",
+     "Solid fuels": 112.03178206583428,
+     "Gas ": 131.92612137203164,
+     "Electricity ": 127.91293213828428,
+     "Liquid fuels": 74.40719542109568
+    },
+    {
+     "year": 2015,
+     "Month": "September",
+     "Solid fuels": 112.372304199773,
+     "Gas ": 129.023746701847,
+     "Electricity ": 127.91293213828428,
+     "Liquid fuels": 75.55192150449714
+    },
+    {
+     "year": 2015,
+     "Month": "October",
+     "Solid fuels": 113.84790011350738,
+     "Gas ": 129.023746701847,
+     "Electricity ": 127.91293213828428,
+     "Liquid fuels": 75.63368765331153
+    },
+    {
+     "year": 2015,
+     "Month": "November",
+     "Solid fuels": 114.07491486946653,
+     "Gas ": 129.023746701847,
+     "Electricity ": 127.91293213828428,
+     "Liquid fuels": 73.01717089125103
+    },
+    {
+     "year": 2015,
+     "Month": "December",
+     "Solid fuels": 114.07491486946653,
+     "Gas ": 129.023746701847,
+     "Electricity ": 127.91293213828428,
+     "Liquid fuels": 67.29354047424366
+    },
+    {
+     "year": 2016,
+     "Month": "January",
+     "Solid fuels": 114.07491486946653,
+     "Gas ": 129.023746701847,
+     "Electricity ": 127.91293213828428,
+     "Liquid fuels": 61.242845461978746
+    },
+    {
+     "year": 2016,
+     "Month": "February",
+     "Solid fuels": 114.18842224744607,
+     "Gas ": 128.10026385224273,
+     "Electricity ": 127.91293213828428,
+     "Liquid fuels": 58.62632869991824
+    },
+    {
+     "year": 2016,
+     "Month": "March",
+     "Solid fuels": 113.96140749148695,
+     "Gas ": 124.80211081794195,
+     "Electricity ": 127.91293213828428,
+     "Liquid fuels": 63.205233033524124
+    },
+    {
+     "year": 2016,
+     "Month": "April",
+     "Solid fuels": 114.18842224744607,
+     "Gas ": 123.08707124010554,
+     "Electricity ": 127.65685019206148,
+     "Liquid fuels": 64.67702371218316
+    },
+    {
+     "year": 2016,
+     "Month": "May",
+     "Solid fuels": 112.82633371169129,
+     "Gas ": 123.08707124010554,
+     "Electricity ": 127.65685019206148,
+     "Liquid fuels": 68.68356500408831
+    },
+    {
+     "year": 2016,
+     "Month": "June",
+     "Solid fuels": 111.91827468785472,
+     "Gas ": 123.08707124010554,
+     "Electricity ": 127.65685019206148,
+     "Liquid fuels": 74.24366312346689
+    },
+    {
+     "year": 2016,
+     "Month": "July",
+     "Solid fuels": 111.01021566401816,
+     "Gas ": 123.08707124010554,
+     "Electricity ": 127.65685019206148,
+     "Liquid fuels": 74.40719542109568
+    },
+    {
+     "year": 2016,
+     "Month": "August",
+     "Solid fuels": 111.12372304199774,
+     "Gas ": 123.08707124010554,
+     "Electricity ": 127.65685019206148,
+     "Liquid fuels": 72.93540474243663
+    },
+    {
+     "year": 2016,
+     "Month": "September",
+     "Solid fuels": 112.03178206583428,
+     "Gas ": 123.08707124010554,
+     "Electricity ": 127.65685019206148,
+     "Liquid fuels": 76.20605069501227
+    },
+    {
+     "year": 2016,
+     "Month": "October",
+     "Solid fuels": 113.96140749148695,
+     "Gas ": 123.08707124010554,
+     "Electricity ": 127.65685019206148,
+     "Liquid fuels": 86.91741618969746
+    },
+    {
+     "year": 2016,
+     "Month": "November",
+     "Solid fuels": 114.75595913734394,
+     "Gas ": 123.08707124010554,
+     "Electricity ": 127.65685019206148,
+     "Liquid fuels": 83.40147179067866
+    },
+    {
+     "year": 2016,
+     "Month": "December",
+     "Solid fuels": 115.43700340522136,
+     "Gas ": 123.08707124010554,
+     "Electricity ": 127.65685019206148,
+     "Liquid fuels": 90.59689288634505
+    },
+    {
+     "year": 2017,
+     "Month": "January",
+     "Solid fuels": 115.66401816118048,
+     "Gas ": 122.55936675461743,
+     "Electricity ": 127.65685019206148,
+     "Liquid fuels": 95.99345870809486
+    },
+    {
+     "year": 2017,
+     "Month": "February",
+     "Solid fuels": 116.23155505107835,
+     "Gas ": 122.55936675461743,
+     "Electricity ": 127.65685019206148,
+     "Liquid fuels": 94.52166802943582
+    },
+    {
+     "year": 2017,
+     "Month": "March",
+     "Solid fuels": 116.23155505107835,
+     "Gas ": 122.55936675461743,
+     "Electricity ": 128.93725992317545,
+     "Liquid fuels": 89.77923139820115
+    },
+    {
+     "year": 2017,
+     "Month": "April",
+     "Solid fuels": 116.34506242905789,
+     "Gas ": 121.89973614775727,
+     "Electricity ": 132.13828425096034,
+     "Liquid fuels": 89.94276369582992
+    },
+    {
+     "year": 2017,
+     "Month": "May",
+     "Solid fuels": 114.75595913734394,
+     "Gas ": 122.42744063324538,
+     "Electricity ": 137.51600512163895,
+     "Liquid fuels": 83.72853638593622
+    },
+    {
+     "year": 2017,
+     "Month": "June",
+     "Solid fuels": 114.52894438138482,
+     "Gas ": 122.42744063324538,
+     "Electricity ": 137.51600512163895,
+     "Liquid fuels": 82.17497955846281
+    },
+    {
+     "year": 2017,
+     "Month": "July",
+     "Solid fuels": 114.41543700340522,
+     "Gas ": 123.08707124010554,
+     "Electricity ": 139.18053777208706,
+     "Liquid fuels": 81.52085036794767
+    },
+    {
+     "year": 2017,
+     "Month": "August",
+     "Solid fuels": 114.41543700340522,
+     "Gas ": 123.08707124010554,
+     "Electricity ": 139.18053777208706,
+     "Liquid fuels": 85.28209321340965
+    },
+    {
+     "year": 2017,
+     "Month": "September",
+     "Solid fuels": 114.41543700340522,
+     "Gas ": 123.08707124010554,
+     "Electricity ": 139.18053777208706,
+     "Liquid fuels": 88.79803761242844
+    },
+    {
+     "year": 2017,
+     "Month": "October",
+     "Solid fuels": 116.79909194097617,
+     "Gas ": 123.08707124010554,
+     "Electricity ": 142.25352112676057,
+     "Liquid fuels": 89.69746524938675
+    },
+    {
+     "year": 2017,
+     "Month": "November",
+     "Solid fuels": 118.04767309875142,
+     "Gas ": 123.21899736147759,
+     "Electricity ": 142.25352112676057,
+     "Liquid fuels": 97.95584627964023
+    },
+    {
+     "year": 2017,
+     "Month": "December",
+     "Solid fuels": 118.38819523269012,
+     "Gas ": 123.21899736147759,
+     "Electricity ": 142.25352112676057,
+     "Liquid fuels": 105.56009811937857
+    },
+    {
+     "year": 2018,
+     "Month": "January",
+     "Solid fuels": 118.61520998864927,
+     "Gas ": 123.35092348284962,
+     "Electricity ": 142.25352112676057,
+     "Liquid fuels": 106.86835650040882
+    },
+    {
+     "year": 2018,
+     "Month": "February",
+     "Solid fuels": 118.61520998864927,
+     "Gas ": 123.35092348284962,
+     "Electricity ": 142.25352112676057,
+     "Liquid fuels": 105.06950122649224
+    },
+    {
+     "year": 2018,
+     "Month": "March",
+     "Solid fuels": 118.95573212258796,
+     "Gas ": 123.35092348284962,
+     "Electricity ": 142.25352112676057,
+     "Liquid fuels": 110.46606704824202
+    },
+    {
+     "year": 2018,
+     "Month": "April",
+     "Solid fuels": 118.84222474460842,
+     "Gas ": 123.7467018469657,
+     "Electricity ": 143.5339308578745,
+     "Liquid fuels": 110.87489779231399
+    },
+    {
+     "year": 2018,
+     "Month": "May",
+     "Solid fuels": 115.5505107832009,
+     "Gas ": 123.87862796833775,
+     "Electricity ": 143.66197183098592,
+     "Liquid fuels": 114.79967293540474
+    },
+    {
+     "year": 2018,
+     "Month": "June",
+     "Solid fuels": 115.32349602724177,
+     "Gas ": 126.91292875989446,
+     "Electricity ": 146.86299615877084,
+     "Liquid fuels": 113.73671300081767
+    },
+    {
+     "year": 2018,
+     "Month": "July",
+     "Solid fuels": 116.0045402951192,
+     "Gas ": 128.36411609498683,
+     "Electricity ": 149.42381562099874,
+     "Liquid fuels": 110.79313164349959
+    },
+    {
+     "year": 2018,
+     "Month": "August",
+     "Solid fuels": 116.23155505107835,
+     "Gas ": 128.36411609498683,
+     "Electricity ": 149.42381562099874,
+     "Liquid fuels": 112.18315617334423
+    },
+    {
+     "year": 2018,
+     "Month": "September",
+     "Solid fuels": 115.77752553916005,
+     "Gas ": 129.81530343007915,
+     "Electricity ": 152.11267605633802,
+     "Liquid fuels": 117.66148814390843
+    },
+    {
+     "year": 2018,
+     "Month": "October",
+     "Solid fuels": 119.9772985244041,
+     "Gas ": 132.4538258575198,
+     "Electricity ": 155.18565941101156,
+     "Liquid fuels": 126.16516762060508
+    },
+    {
+     "year": 2018,
+     "Month": "November",
+     "Solid fuels": 119.06923950056756,
+     "Gas ": 132.4538258575198,
+     "Electricity ": 155.18565941101156,
+     "Liquid fuels": 119.13327882256746
+    },
+    {
+     "year": 2018,
+     "Month": "December",
+     "Solid fuels": 121.45289443813849,
+     "Gas ": 132.4538258575198,
+     "Electricity ": 155.18565941101156,
+     "Liquid fuels": 111.6107931316435
+    },
+    {
+     "year": 2019,
+     "Month": "January",
+     "Solid fuels": 121.45289443813849,
+     "Gas ": 121.2401055408971,
+     "Electricity ": 147.6312419974392,
+     "Liquid fuels": 107.68601798855273
+    },
+    {
+     "year": 2019,
+     "Month": "February",
+     "Solid fuels": 121.56640181611805,
+     "Gas ": 121.37203166226914,
+     "Electricity ": 147.7592829705506,
+     "Liquid fuels": 110.13900245298444
+    },
+    {
+     "year": 2019,
+     "Month": "March",
+     "Solid fuels": 121.90692395005678,
+     "Gas ": 121.37203166226914,
+     "Electricity ": 147.7592829705506,
+     "Liquid fuels": 110.87489779231399
+    },
+    {
+     "year": 2019,
+     "Month": "April",
+     "Solid fuels": 119.86379114642452,
+     "Gas ": 132.5857519788918,
+     "Electricity ": 163.76440460947506,
+     "Liquid fuels": 111.36549468520032
+    },
+    {
+     "year": 2019,
+     "Month": "May",
+     "Solid fuels": 120.88535754824063,
+     "Gas ": 132.5857519788918,
+     "Electricity ": 163.76440460947506,
+     "Liquid fuels": 113.16434995911693
+    },
+    {
+     "year": 2019,
+     "Month": "June",
+     "Solid fuels": 121.56640181611805,
+     "Gas ": 132.5857519788918,
+     "Electricity ": 163.76440460947506,
+     "Liquid fuels": 108.66721177432544
+    },
+    {
+     "year": 2019,
+     "Month": "July",
+     "Solid fuels": 121.33938706015893,
+     "Gas ": 132.5857519788918,
+     "Electricity ": 163.76440460947506,
+     "Liquid fuels": 108.0130825838103
+    },
+    {
+     "year": 2019,
+     "Month": "August",
+     "Solid fuels": 120.54483541430194,
+     "Gas ": 132.5857519788918,
+     "Electricity ": 163.76440460947506,
+     "Liquid fuels": 109.73017170891251
+    },
+    {
+     "year": 2019,
+     "Month": "September",
+     "Solid fuels": 120.99886492622021,
+     "Gas ": 132.5857519788918,
+     "Electricity ": 163.76440460947506,
+     "Liquid fuels": 109.81193785772692
+    },
+    {
+     "year": 2019,
+     "Month": "October",
+     "Solid fuels": 122.81498297389331,
+     "Gas ": 120.97625329815304,
+     "Electricity ": 160.30729833546738,
+     "Liquid fuels": 113.81847914963204
+    },
+    {
+     "year": 2019,
+     "Month": "November",
+     "Solid fuels": 125.7661748013621,
+     "Gas ": 120.97625329815304,
+     "Electricity ": 160.30729833546738,
+     "Liquid fuels": 110.30253475061325
+    },
+    {
+     "year": 2019,
+     "Month": "December",
+     "Solid fuels": 126.44721906923952,
+     "Gas ": 120.97625329815304,
+     "Electricity ": 160.30729833546738,
+     "Liquid fuels": 110.38430089942763
+    },
+    {
+     "year": 2020,
+     "Month": "January",
+     "Solid fuels": 125.31214528944383,
+     "Gas ": 120.97625329815304,
+     "Electricity ": 160.30729833546738,
+     "Liquid fuels": 114.14554374488961
+    },
+    {
+     "year": 2020,
+     "Month": "February",
+     "Solid fuels": 126.67423382519864,
+     "Gas ": 120.97625329815304,
+     "Electricity ": 160.30729833546738,
+     "Liquid fuels": 101.47179067865903
+    },
+    {
+     "year": 2020,
+     "Month": "March",
+     "Solid fuels": 126.67423382519864,
+     "Gas ": 120.97625329815304,
+     "Electricity ": 160.30729833546738,
+     "Liquid fuels": 83.40147179067866
+    },
+    {
+     "year": 2020,
+     "Month": "April",
+     "Solid fuels": 126.56072644721907,
+     "Gas ": 116.62269129287598,
+     "Electricity ": 160.56338028169014,
+     "Liquid fuels": 64.84055600981193
+    },
+    {
+     "year": 2020,
+     "Month": "May",
+     "Solid fuels": 126.56072644721907,
+     "Gas ": 116.75461741424802,
+     "Electricity ": 160.56338028169014,
+     "Liquid fuels": 60.670482420278006
+    },
+    {
+     "year": 2020,
+     "Month": "June",
+     "Solid fuels": 126.44721906923952,
+     "Gas ": 116.75461741424802,
+     "Electricity ": 160.56338028169014,
+     "Liquid fuels": 70.89125102207686
+    },
+    {
+     "year": 2020,
+     "Month": "July",
+     "Solid fuels": 126.90124858115779,
+     "Gas ": 116.62269129287598,
+     "Electricity ": 160.43533930857876,
+     "Liquid fuels": 71.4636140637776
+    },
+    {
+     "year": 2020,
+     "Month": "August",
+     "Solid fuels": 125.87968217934167,
+     "Gas ": 116.62269129287598,
+     "Electricity ": 160.43533930857876,
+     "Liquid fuels": 71.30008176614882
+    },
+    {
+     "year": 2020,
+     "Month": "September",
+     "Solid fuels": 127.01475595913736,
+     "Gas ": 116.62269129287598,
+     "Electricity ": 160.43533930857876,
+     "Liquid fuels": 68.27473426001636
+    },
+    {
+     "year": 2020,
+     "Month": "October",
+     "Solid fuels": 128.83087400681046,
+     "Gas ": 102.37467018469657,
+     "Electricity ": 155.18565941101156,
+     "Liquid fuels": 71.30008176614882
+    },
+    {
+     "year": 2020,
+     "Month": "November",
+     "Solid fuels": 130.64699205448355,
+     "Gas ": 102.37467018469657,
+     "Electricity ": 155.18565941101156,
+     "Liquid fuels": 67.45707277187245
+    },
+    {
+     "year": 2020,
+     "Month": "December",
+     "Solid fuels": 130.19296254256528,
+     "Gas ": 102.37467018469657,
+     "Electricity ": 155.18565941101156,
+     "Liquid fuels": 79.64022894521669
+    },
+    {
+     "year": 2021,
+     "Month": "January",
+     "Solid fuels": 130.30646992054486,
+     "Gas ": 102.37467018469657,
+     "Electricity ": 155.18565941101156,
+     "Liquid fuels": 85.6909239574816
+    },
+    {
+     "year": 2021,
+     "Month": "February",
+     "Solid fuels": 130.0794551645857,
+     "Gas ": 102.37467018469657,
+     "Electricity ": 155.18565941101156,
+     "Liquid fuels": 92.15044971381849
+    },
+    {
+     "year": 2021,
+     "Month": "March",
+     "Solid fuels": 130.30646992054486,
+     "Gas ": 102.37467018469657,
+     "Electricity ": 155.18565941101156,
+     "Liquid fuels": 94.76696647587899
+    },
+    {
+     "year": 2021,
+     "Month": "April",
+     "Solid fuels": 130.4199772985244,
+     "Gas ": 112.0052770448549,
+     "Electricity ": 169.39820742637644,
+     "Liquid fuels": 90.59689288634505
+    },
+    {
+     "year": 2021,
+     "Month": "May",
+     "Solid fuels": 130.30646992054486,
+     "Gas ": 112.0052770448549,
+     "Electricity ": 169.39820742637644,
+     "Liquid fuels": 94.84873262469338
+    },
+    {
+     "year": 2021,
+     "Month": "June",
+     "Solid fuels": 130.64699205448355,
+     "Gas ": 112.0052770448549,
+     "Electricity ": 169.39820742637644,
+     "Liquid fuels": 97.79231398201145
+    },
+    {
+     "year": 2021,
+     "Month": "July",
+     "Solid fuels": 130.64699205448355,
+     "Gas ": 112.0052770448549,
+     "Electricity ": 169.65428937259927,
+     "Liquid fuels": 98.2829108748978
+    },
+    {
+     "year": 2021,
+     "Month": "August",
+     "Solid fuels": 130.53348467650397,
+     "Gas ": 112.0052770448549,
+     "Electricity ": 169.65428937259927,
+     "Liquid fuels": 97.05641864268193
+    },
+    {
+     "year": 2021,
+     "Month": "September",
+     "Solid fuels": 131.21452894438139,
+     "Gas ": 112.0052770448549,
+     "Electricity ": 169.65428937259927,
+     "Liquid fuels": 101.47179067865903
+    },
+    {
+     "year": 2021,
+     "Month": "October",
+     "Solid fuels": 132.5766174801362,
+     "Gas ": 131.13456464379948,
+     "Electricity ": 184.37900128040974,
+     "Liquid fuels": 120.5233033524121
+    },
+    {
+     "year": 2021,
+     "Month": "November",
+     "Solid fuels": 133.14415437003407,
+     "Gas ": 131.13456464379948,
+     "Electricity ": 184.37900128040974,
+     "Liquid fuels": 125.0204415372036
+    },
+    {
+     "year": 2021,
+     "Month": "December",
+     "Solid fuels": 136.77639046538025,
+     "Gas ": 131.13456464379948,
+     "Electricity ": 184.37900128040974,
+     "Liquid fuels": 121.17743254292724
+    },
+    {
+     "year": 2022,
+     "Month": "January",
+     "Solid fuels": 137.45743473325766,
+     "Gas ": 131.2664907651715,
+     "Electricity ": 185.0192061459667,
+     "Liquid fuels": 125.91986917416189
+    },
+    {
+     "year": 2022,
+     "Month": "February",
+     "Solid fuels": 139.95459704880818,
+     "Gas ": 131.2664907651715,
+     "Electricity ": 185.0192061459667,
+     "Liquid fuels": 140.80130825838103
+    },
+    {
+     "year": 2022,
+     "Month": "March",
+     "Solid fuels": 144.9489216799092,
+     "Gas ": 131.2664907651715,
+     "Electricity ": 185.0192061459667,
+     "Liquid fuels": 202.7800490596893
+    },
+    {
+     "year": 2022,
+     "Month": "April",
+     "Solid fuels": 147.7866061293984,
+     "Gas ": 218.86543535620055,
+     "Electricity ": 260.17925736235594,
+     "Liquid fuels": 193.7857726901063
+    },
+    {
+     "year": 2022,
+     "Month": "May",
+     "Solid fuels": 151.9863791146425,
+     "Gas ": 218.86543535620055,
+     "Electricity ": 260.17925736235594,
+     "Liquid fuels": 211.12019623875713
+    },
+    {
+     "year": 2022,
+     "Month": "June",
+     "Solid fuels": 159.8183881952327,
+     "Gas ": 218.86543535620055,
+     "Electricity ": 260.17925736235594,
+     "Liquid fuels": 223.79394930498773
+    },
+    {
+     "year": 2022,
+     "Month": "July",
+     "Solid fuels": 165.83427922814985,
+     "Gas ": 219.12928759894461,
+     "Electricity ": 261.3316261203585,
+     "Liquid fuels": 210.38430089942764
+    },
+    {
+     "year": 2022,
+     "Month": "August",
+     "Solid fuels": 169.46651532349605,
+     "Gas ": 219.12928759894461,
+     "Electricity ": 261.3316261203585,
+     "Liquid fuels": 180.78495502861816
+    }
+   ]

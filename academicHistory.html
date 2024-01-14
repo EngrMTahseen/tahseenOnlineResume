@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,900;1,100;1,500&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="manifest" href="/manifest.json" />
+    <title>ProfessionalHistory</title>
+  </head>
+  <body>
+    <!-- Header for Navigation -->
+    <header>
+      <img src="images/logo.png" alt="My Logo" class="logo" />
+      <h2>Muhammad Tahseen - Academic History</h2>
+      <span id="menu-icon">&#9776;</span>
+      <nav>
+        <ul id="menu">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="academicHistory.html">Academic History</a></li>
+          <li><a href="professionalHistory.html">Professional History</a></li>
+          <li><a href="testimonials.html">Testimonials</a></li>
+          <li><a href="mySkills.html">Skills</a></li>
+          <li><a href="contactInfo.html">Contact Info</a></li>
+        </ul>
+      </nav>
+    </header>
+    <!-- Main -->
+    <main>
+      <section id="academic">
+        <h2>Academic History</h2>
+        <div class="list-item">
+          <h3 class="information-heading">Academic Qualification:</h3>
+          <ol type="i">
+            <li>
+              Graduation in Software Engineering from Mirpur University of
+              Science and Technology (MUST), AJK, Pakistan (2018-2023)
+            </li>
+            <li>
+              FSc Pre-Engineering from Pasban Science College Khuiratta, AJK,
+              Pakistan (2016-2018)
+            </li>
+            <li>
+              Matric from Govt. High School Doongi, AJK, Pakistan (Completed in
+              2015)
+            </li>
+          </ol>
+        </div>
+
+        <div class="list-item">
+          <h3 class="information-heading">Academic Achievements:</h3>
+          <ul>
+            <li>Achieved Gold Medal in Software Engineering</li>
+            <li>Won First Prize in Pre-Engineering</li>
+            <li>Achieved a First Position Award in Speech Competition</li>
+          </ul>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <p>&copy; 2023 Muhammad Tahseen | Email:engrtahseen123@gmail.com</p>
+    </footer>
+    <script src="script.js"></script>
+    <script>
+      if ("serviceWorker" in navigator) {
+        navigator.serviceWorker
+          .register("serviceWorker.js")
+          .then((registration) => {
+            console.log(
+              "Service Worker registered with scope:",
+              registration.scope
+            );
+          })
+          .catch((error) => {
+            console.error("Service Worker registration failed:", error);
+          });
+      }
+    </script>
+  </body>
+</html>

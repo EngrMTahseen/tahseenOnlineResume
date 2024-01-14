@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,900;1,100;1,500&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="manifest" href="/manifest.json" />
+
+    <title>MySkills</title>
+  </head>
+  <body>
+    <!-- Header for Navigation -->
+    <header>
+      <img src="images/logo.png" alt="My Logo" class="logo" />
+      <h2>Muhammad Tahseen - My Skills</h2>
+      <span id="menu-icon">&#9776;</span>
+      <nav>
+        <ul id="menu">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="academicHistory.html">Academic History</a></li>
+          <li><a href="professionalHistory.html">Professional History</a></li>
+          <li><a href="testimonials.html">Testimonials</a></li>
+          <li><a href="mySkills.html">Skills</a></li>
+          <li><a href="contactInfo.html">Contact Info</a></li>
+        </ul>
+      </nav>
+    </header>
+    <!-- My Skills Page for Thumbnails -->
+    <main>
+      <h2>My Skills</h2>
+      <section id="skill" class="center">
+        <h2>ECMAScript</h2>
+        <p>Give a look on my ECMAScript projects:</p>
+        <div
+          class="project-thumbnail"
+          onclick="openTaskPage('currencyConverter.html')"
+        >
+          <img
+            src="images/currencyConverter.jpg"
+            class="project-thumbnail-img"
+            alt="Currency Converter Thumbnail"
+          />
+          <p>Currency Converter</p>
+        </div>
+        <div
+          class="project-thumbnail"
+          onclick="openTaskPage('forecaster.html')"
+        >
+          <img
+            src="images/forcaster.jpg"
+            class="project-thumbnail-img"
+            alt="Forecaster Thumbnail"
+          />
+
+          <p>Forecaster</p>
+        </div>
+      </section>
+    </main>
+    <footer>
+      <p>&copy; 2023 Muhammad Tahseen | Email:engrtahseen123@gmail.com</p>
+    </footer>
+
+    <script>
+      if ("serviceWorker" in navigator) {
+        navigator.serviceWorker
+          .register("/serviceWorker.js")
+          .then((registration) => {
+            console.log(
+              "Service Worker registered with scope:",
+              registration.scope
+            );
+          })
+          .catch((error) => {
+            console.error("Service Worker registration failed:", error);
+          });
+      }
+
+      let typed = new Typed(".animate", {
+        strings: ["Ivan Dan"],
+        typeSpeed: 100,
+        backSpeed: 80,
+        loop: true,
+      });
+    </script>
+    <script src="script.js"></script>
+  </body>
+</html>

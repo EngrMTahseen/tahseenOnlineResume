@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,900;1,100;1,500&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <link rel="manifest" href="/manifest.json" />
+
+    <title>Tahseen - Online Resume</title>
+  </head>
+  <body>
+   <!-- Header for Navigation -->
+    <header>
+      <img src="images/logo.png" alt="my Logo" class="logo" />
+      <h2>Muhammad Tahseen</h2>
+      <span id="menu-icon">&#9776;</span>
+      <nav>
+        <ul id="menu">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="academicHistory.html">Academic History</a></li>
+          <li><a href="professionalHistory.html">Professional History</a></li>
+          <li><a href="testimonials.html">Testimonials</a></li>
+          <li><a href="mySkills.html">Skills</a></li>
+          <li><a href="contactInfo.html">Contact Info</a></li>
+        </ul>
+      </nav>
+    </header>
+    <!-- Main Hero Section -->
+    <main>
+      <section class="hero_section">
+        <div class="col_hero_info">
+          <h1>I am Muhammad Tahseen</h1>
+          <p>A Front End <strong>Web Developer</strong> having <strong>3+ Years</strong> of Experience in the <strong>Software Field</strong>.</p>
+          <small>I can solve your problems by code. Give me a Chance !</small>
+          <h5></h5>
+          <button class="btn"><a href="mySkills.html">Check My Skills</a></button>
+        </div>
+        <div>
+          <img src="images/logo.png" alt="" />
+        </div>
+      </section>
+    </main>
+    
+    <!-- (progressive Web App) -->
+    <section id="responsive">
+      <picture>
+        <!-- Source for AVIF format, with two size variations and resolution variants -->
+        <source
+          media="(max-width: 767px)"
+          srcset="image-mobile-small.avif 1x, image-mobile-small@2x.avif 2x"
+          type="image/avif"
+        />
+        <source
+          media="(min-width: 768px)"
+          srcset="image-desktop-small.avif 1x, image-desktop-small@2x.avif 2x"
+          type="image/avif"
+        />
+
+        <!-- Source for WEBP format, with two size variations and resolution variants -->
+        <source
+          media="(max-width: 767px)"
+          srcset="image-mobile-small.webp 1x, image-mobile-small@2x.webp 2x"
+          type="image/webp"
+        />
+        <source
+          media="(min-width: 768px)"
+          srcset="image-desktop-small.webp 1x, image-desktop-small@2x.webp 2x"
+          type="image/webp"
+        />
+
+        <!-- Fallback for legacy formats (JPG, GIF, or PNG) -->
+        <img
+          src="image-fallback-small.jpg"
+          alt=""
+          width="600"
+        />
+      </picture>
+    </section>
+
+    <footer>
+      <p>&copy; 2023 Muhammad Tahseen | Email:engrtahseen123@gmail.com</p>
+    </footer>
+
+    <script src="script.js"></script>
+
+    <!-- Service Worker (progressive Web App) -->
+    <script>
+      if ("serviceWorker" in navigator) {
+        navigator.serviceWorker
+          .register("/serviceWorker.js")
+          .then((registration) => {
+            console.log(
+              "Service Worker registered with scope:",
+              registration.scope
+            );
+          })
+          .catch((error) => {
+            console.error("Service Worker registration failed:", error);
+          });
+      }
+    </script>
+  </body>
+</html>

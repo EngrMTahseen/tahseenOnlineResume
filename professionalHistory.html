@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,900;1,100;1,500&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="manifest" href="/manifest.json" />
+
+    <title>ProfessionalHistory</title>
+  </head>
+  <body>
+    <!-- Header for Navigation -->
+    <header>
+      <img src="images/logo.png" alt="My Logo" class="logo" />
+      <h2>Muhammad Tahseen - Professional History</h2>
+      <nav>
+        <span id="menu-icon">&#9776;</span>
+        <ul id="menu">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="academicHistory.html">Academic History</a></li>
+          <li><a href="professionalHistory.html">Professional History</a></li>
+          <li><a href="testimonials.html">Testimonials</a></li>
+          <li><a href="mySkills.html">Skills</a></li>
+          <li><a href="contactInfo.html">Contact Info</a></li>
+        </ul>
+      </nav>
+    </header>
+    <!-- Main Section -->
+    <main>
+      <section id="professional">
+        <h2>Professional History</h2>
+        <div class="table-container">
+          <table>
+            <thead>
+              <tr>
+                <th>SN</th>
+                <th>Work Experience</th>
+                <th>Company</th>
+                <th>Country</th>
+                <th>Email</th>
+                <th>Experience Time</th>
+                <th>Achievement Confidence</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td><strong>1</strong></td>
+                <td>Office Admin</td>
+                <td>T & S Construction Company</td>
+                <td>Stoke, UK</td>
+                <td>tsconstruction@gmail.com</td>
+                <td>01 Nov, 2023 - Present</td>
+                <td class="checkbox-cell">
+                  <input type="checkbox" id="confidence1" checked disabled />
+                  <label for="confidence1"></label>
+                  <span class="in-progress-label">Now</span>
+                </td>
+              </tr>
+              <tr>
+                <td><strong>2</strong></td>
+                <td>Software Developer</td>
+                <td>Code Creative Company</td>
+                <td>Islamabad, Pakistan</td>
+                <td>codecreative123@gmail.com</td>
+                <td>01 Nov, 2022 - 01 Aug, 2023</td>
+                <td class="checkbox-cell">
+                  <input type="checkbox" id="confidence1" checked disabled />
+                  <label for="confidence1"></label>
+                  <span class="percentage-label">100%</span>
+                </td>
+              </tr>
+              <tr>
+                <td><strong>3</strong></td>
+                <td>Web Developer</td>
+                <td>Moboroid Software House</td>
+                <td>Mirpur, Pakistan</td>
+                <td>moboroidmirpur@gmail.com</td>
+                <td>02 Jan, 2021 - 02 March, 2022</td>
+                <td class="checkbox-cell">
+                  <input type="checkbox" id="confidence2" checked disabled />
+                  <label for="confidence2"></label>
+                  <span class="percentage-label">95%</span>
+                </td>
+              </tr>
+              <tr>
+                <td><strong>4</strong></td>
+                <td>IT Trainer</td>
+                <td>Q Need Solution Institute</td>
+                <td>Khuiratta, AJK</td>
+                <td>qneedsolution@gmail.com</td>
+                <td>01 April, 2020 - 02 Jan, 2021</td>
+                <td class="checkbox-cell">
+                  <input type="checkbox" id="confidence2" checked disabled />
+                  <label for="confidence2"></label>
+                  <span class="percentage-label">90%</span>
+                </td>
+              </tr>
+              <tr>
+                <td><strong>5</strong></td>
+                <td>IELTS Teacher</td>
+                <td>Q Need Solution Academy</td>
+                <td>Khuiratta, AJK</td>
+                <td>qneedsolution@gmail.com</td>
+                <td>01 March, 2019 - 02 Jan, 2020</td>
+                <td class="checkbox-cell">
+                  <input type="checkbox" id="confidence2" checked disabled />
+                  <label for="confidence2"></label>
+                  <span class="percentage-label">100%</span>
+                </td>
+              </tr>
+              <tr></tr>
+              <tr></tr>
+            </tbody>
+          </table>
+        </div>
+        <!-- Add more content as needed -->
+      </section>
+    </main>
+
+    <footer>
+      <p>&copy; 2023 Muhammad Tahseen | Email:engrtahseen123@gmail.com</p>
+    </footer>
+    <script src="script.js"></script>
+    <script>
+      if ("serviceWorker" in navigator) {
+        navigator.serviceWorker
+          .register("/serviceWorker.js")
+          .then((registration) => {
+            console.log(
+              "Service Worker registered with scope:",
+              registration.scope
+            );
+          })
+          .catch((error) => {
+            console.error("Service Worker registration failed:", error);
+          });
+      }
+    </script>
+  </body>
+</html>

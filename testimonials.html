@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,900;1,100;1,500&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="manifest" href="/manifest.json" />
+    <title>Testimonials</title>
+  </head>
+  <body>
+    <!-- Header for Section -->
+    <header>
+      <img src="images/logo.png" alt="My Logo" class="logo" />
+      <h2>Muhammad Tahseen - Testimonials</h2>
+      <span id="menu-icon">&#9776;</span>
+      <nav>
+        <ul id="menu">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="academicHistory.html">Academic History</a></li>
+          <li><a href="professionalHistory.html">Professional History</a></li>
+          <li><a href="testimonials.html">Testimonials</a></li>
+          <li><a href="mySkills.html">Skills</a></li>
+          <li><a href="contactInfo.html">Contact Info</a></li>
+        </ul>
+      </nav>
+    </header>
+    <!-- Main Section -->
+    <main>
+      <section id="testimonials">
+        <h2>Testimonials</h2>
+
+        <div class="testimonial">
+          <img
+            src="images/client1.jpg"
+            alt="client1image"
+            class="rounded-image"
+          />
+          <blockquote>
+            <p>
+              "Muhammad Tahseen is an excellent web developer, I have given him
+              a job and he has completed it perfectly. I am so happy about his
+              work."
+            </p>
+            <footer>Name: Alhaj Shuman</footer>
+          </blockquote>
+        </div>
+
+        <div class="testimonial">
+          <img
+            src="images/client2.jpg"
+            alt="client2image"
+            class="rounded-image"
+          />
+          <blockquote>
+            <p>
+              "I had the pleasure of working with Muhammad Tahseen. Their
+              problem-solving abilities and attention to detail make them a
+              valuable asset to any team."
+            </p>
+            <footer>Name: Sara Mushtaq</footer>
+          </blockquote>
+        </div>
+        <!-- Add more testimonials as needed -->
+      </section>
+    </main>
+
+    <footer>
+      <p>&copy; 2023 Muhammad Tahseen | Email:engrtahseen123@gmail.com</p>
+    </footer>
+    <script src="script.js"></script>
+    <script>
+      if ("serviceWorker" in navigator) {
+        navigator.serviceWorker
+          .register("/serviceWorker.js")
+          .then((registration) => {
+            console.log(
+              "Service Worker registered with scope:",
+              registration.scope
+            );
+          })
+          .catch((error) => {
+            console.error("Service Worker registration failed:", error);
+          });
+      }
+    </script>
+  </body>
+</html>
